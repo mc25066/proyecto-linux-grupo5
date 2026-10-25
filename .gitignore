@@ -1,0 +1,11 @@
+# Archivos temporales y de editores
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Registros y secretos (nunca subir credenciales)
+*.log
+.env
+*.key
+*.pem
