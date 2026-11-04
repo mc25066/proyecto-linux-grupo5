@@ -61,7 +61,7 @@ exit
 
 ![Versión de Docker](capturas/4.1_docker_version.png)
 ![Servicio activo](capturas/4.1_docker_activo.png)
-![Usuarios en el grupo docker](capturas/4.1_grupo_docker.png)
+![Usuarios en el grupo docker](capturas/4.1_grupo__docker.png)
 ![docker ps con adminsys](capturas/4.1_adminsys_docker_ps.png)
 
 ### 4.2 Verificación inicial
