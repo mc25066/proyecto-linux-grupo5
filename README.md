@@ -5,11 +5,9 @@ Universidad de El Salvador, Facultad Multidisciplinaria de Occidente
 
 ## Integrantes
 
-- Carlos Fernando Rivas Moran
-- Luis Angel Huezo Martinez
 - Steven Alexis Martinez
 - Fernando Jose Tesorero Brito
-- (nombre del quinto integrante)
+-
 
 ## Descripción
 
