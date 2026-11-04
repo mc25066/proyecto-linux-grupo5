@@ -7,7 +7,7 @@ Universidad de El Salvador, Facultad Multidisciplinaria de Occidente
 
 - Steven Alexis Martinez
 - Fernando Jose Tesorero Brito
--
+- Luis Ángel Huezo Martínez 
 
 ## Descripción
 
