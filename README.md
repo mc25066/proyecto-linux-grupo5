@@ -5,7 +5,7 @@ Universidad de El Salvador, Facultad Multidisciplinaria de Occidente
 
 ## Integrantes
 
-- Steven Alexis Martinez
+- Jorge Mario Meléndez
 - Fernando Jose Tesorero Brito
 - Luis Ángel Huezo Martínez 
 
